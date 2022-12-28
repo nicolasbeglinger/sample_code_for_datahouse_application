@@ -1,2 +1,2 @@
-# sample_code_for_datahouse_application
+## Sample Code for Datahouse Application
 This Repository contains a few Code Files of previous projects in the languages R and Python.
